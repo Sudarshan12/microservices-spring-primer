@@ -10,6 +10,9 @@ public class Configuration {
 	private int minimum;
 	private int maximum;
 	
+	protected Configuration() {
+		
+	}
 	/**
 	 * @param minimum
 	 * @param maximum
